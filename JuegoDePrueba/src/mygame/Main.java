@@ -17,7 +17,7 @@ public class Main extends SimpleApplication {
     public static void main(String[] args) {
         Main app = new Main();
         app.start();
-    }
+    }//lala
 
     @Override
     public void simpleInitApp() {
